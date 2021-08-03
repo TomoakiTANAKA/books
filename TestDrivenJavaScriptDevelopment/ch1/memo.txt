@@ -1,0 +1,26 @@
+# memo
+## strftime.js
+
+### xxx
+
+
+### xxx
+
+
+### xxx
+
+
+### xxx
+
+
+### xxx
+
+```
+Date.formats = {
+    d: function (date) {...},
+    y: function (date) {...},
+}
+```
+
+これは、コレクションの一種でハッシュということがわかれば、あーそうなんだなと言う程度のもの。
+keyとなる```d```で無名関数にアクセスできる。
